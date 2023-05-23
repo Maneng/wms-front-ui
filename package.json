@@ -1,7 +1,7 @@
 {
   "name": "system",
   "version": "3.8.3",
-  "description": "聚米供应链管理系统",
+  "description": "展维仓储管理系统WMS软件",
   "author": "",
   "license": "MIT",
   "scripts": {
